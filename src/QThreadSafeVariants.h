@@ -4,7 +4,6 @@
 #include <QMutex>
 #include "QThreadSafe_global.h"
 
-#include <QString>
 #include <QVariant>
 
 class QTHREADSAFE_EXPORT QThreadSafeVariant {
