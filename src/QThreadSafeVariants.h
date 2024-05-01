@@ -1,9 +1,9 @@
 #ifndef QTHREADSAFEVARS_H
 #define QTHREADSAFEVARS_H
 
-#include <QMutex>
 #include "QThreadSafe_global.h"
-
+#include <QMutex>
+#include <QMutexLocker>
 #include <QVariant>
 
 class QTHREADSAFE_EXPORT QThreadSafeVariant {
