@@ -1,5 +1,5 @@
-#ifndef QTHREADSAFE_H
-#define QTHREADSAFE_H
+#ifndef QTHREADSAFEVARS_H
+#define QTHREADSAFEVARS_H
 
 #include <QMutex>
 #include "QThreadSafe_global.h"
